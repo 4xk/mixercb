@@ -1,0 +1,23 @@
+{
+  "name": "mixercb",
+  "version": "0.0.1",
+  "description": "An API Wrapper to make chatbots on mixer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4xk/mixercb.git"
+  },
+  "keywords": [
+    "mixer",
+    "chatbot"
+  ],
+  "author": "4XK/Nebulium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4xk/mixercb/issues"
+  },
+  "homepage": "https://github.com/4xk/mixercb#readme"
+}
